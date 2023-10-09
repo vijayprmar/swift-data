@@ -6,7 +6,7 @@ SwiftData is a fast, powerful, and easy-to-use wayto store data in apps built fo
 
 Here in this Swift Data Example I have done CRUD Opration using newly introduced Swift Data Concepts.
 
-Basic Of Code Description :
+Basic Code Description :
 
 Model Container : An object that manages an app’s schema and model storage configuration. Model Container is set in WindowGroup. We can pass multiple data models over there.
 
